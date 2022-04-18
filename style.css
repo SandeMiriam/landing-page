@@ -4,9 +4,21 @@ body{
 nav{
     margin-left: 55%;
 }
-nav ul{
+/* nav ul{
     display: inline;
     font-weight: 45%;
+} */
+ul li{
+    display: inline;
+    margin-left: 10%;
+    /* margin-top: -2%; */
+    /* float: right; */
+}
+
+.image img{
+    border-radius: 50%;
+    border: 50px solid rgb(125, 122, 122);
+    margin-left: 60%;
 }
 h3{
     color: #FFAC2B;
@@ -130,4 +142,23 @@ margin-left: 5%;
     height: 10px;
     margin-top:270px;
 
+}
+.doc-img{
+    display: flex;
+}
+.imag2 img{
+    margin-left: 30%;
+    margin-top: 24%;
+}
+.imag3{
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.imag1{
+    margin-left: 10%;
+    margin-top: 5%;
+} 
+.par{
+    margin-left: -1%;
+    margin-top: 20%;
 }
